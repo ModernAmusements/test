@@ -1,0 +1,25 @@
+/* TEAM  */
+  CEO: John Smith
+  Contact: JSmith [at] 123SmithInc.com
+  Twitter: @real_jsmith_123
+  From: New York, United States
+
+/* THANKS */
+  Major thanks to the following for their support and (un)healthy supply of tacos!
+    Thunderburst Solutions Ben Franklin
+    Unlimited Power, Inc   Greg Hamelton
+    Cupcake Fever          Everyone
+    Taco 4 *               All the People
+
+/* TECHNOLOGY */
+  OS:     Win7, Win8, Debian
+  Server: Apache, MySQL, Git
+  ETC: FileZilla, Photoshop
+
+/* SITE */
+  Last Updated: 12/13/2014
+  Language: English, Chinese
+  Doctype: HTML5
+  IDE: Sublime Text
+  Framework: Laravel, SASS, jQuery
+  Webmaster: admin [at] 123SmithInc.com
